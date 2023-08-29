@@ -1,11 +1,4 @@
-[build]
-  command = "npm run build"  # Replace with your build command
-  publish = "dist"          # Replace with your build output directory
 
-[[redirects]]
-  from = "/api/*"
-  to = "/.netlify/functions/:splat"
-  status = 200
 
 [[redirects]]
   from = "/*"
