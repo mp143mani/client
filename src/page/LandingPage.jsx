@@ -22,16 +22,9 @@ function LandingPage() {
     <div className="container-fluid" id="Landing">
       <div className="row align-items-center justify-content-end">
         <div className="col-9 col-sm-6  mx-auto my-4">
-          <p className="fs-5 fw-bold my-0">welcome to</p>
-          <p className="fs-1 fw-bolder">TINYURL</p>
-          <span className="fs-5 fw-bold">create free account to enjoy</span>
+          
 
-          <ol>
-            <li> Easy Link Shortening</li>
-            <li> Full Link History</li>
-            <li> Customized TinyURLs</li>
-          </ol>
-
+          
           <div className="d-flex gap-1">
             <ul className="list-group ">
               <li className="list-group-item bg-transparent">
